@@ -1,3 +1,8 @@
+/*
+tutorial
+https://www.youtube.com/watch?v=c2JjxqgsbJ4&list=PLGXZC1nQpK7dvkAdl9PR04UobAGFa_j8e
+*/
+
 // https://searchengineland.com/script-automates-adding-adwords-data-google-spreadsheet-277724 //
 // https://developers.google.com/google-ads/scripts/docs/solutions/account-summary  //
 /* 
