@@ -5,6 +5,10 @@
  LAST_30_DAYS, LAST_WEEK, LAST_BUSINESS_WEEK, LAST_WEEK_SUN_SAT, THIS_MONTH, LAST_MONTH
 */
 
+/*
+https://developers.google.com/google-ads/scripts/docs/solutions
+*/
+
 /**
 *
 * The budget tracker plots spend against budget and outputs to a Google Sheet
