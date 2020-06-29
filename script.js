@@ -1,3 +1,10 @@
+// https://searchengineland.com/script-automates-adding-adwords-data-google-spreadsheet-277724 //
+// https://developers.google.com/google-ads/scripts/docs/solutions/account-summary  //
+/* 
+ Valid values of daterange: TODAY, YESTERDAY, LAST_7_DAYS, THIS_WEEK_SUN_TODAY, THIS_WEEK_MON_TODAY, LAST_WEEK, LAST_14_DAYS, 
+ LAST_30_DAYS, LAST_WEEK, LAST_BUSINESS_WEEK, LAST_WEEK_SUN_SAT, THIS_MONTH, LAST_MONTH
+*/
+
 /**
 *
 * The budget tracker plots spend against budget and outputs to a Google Sheet
